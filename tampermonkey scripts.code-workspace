@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Public",
+			"path": "."
+		},
+		{
+			"name": "Private",
+			"path": "!private"
+		}
+	]
+}

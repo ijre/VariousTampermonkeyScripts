@@ -4,8 +4,8 @@
 // @version      1.0.1.0
 // @description  When loading a YouTube shorts video, redirects you to the normal url version instead
 // @match        *://*.youtube.com/*
-// @downloadURL  https://gist.githubusercontent.com/ijre/d4854775f1a63b2ffed44bef34d8719a/raw/youtubeShortsUseNormalPlayer.js
-// @updateURL    https://gist.githubusercontent.com/ijre/d4854775f1a63b2ffed44bef34d8719a/raw/youtubeShortsUseNormalPlayer.js
+// @downloadURL  https://raw.githubusercontent.com/ijre/VariousTampermonkeyScripts/main/src/YoutubeShortsUseNormalPlayer.js
+// @updateURL    https://raw.githubusercontent.com/ijre/VariousTampermonkeyScripts/main/src/YoutubeShortsUseNormalPlayer.js
 // @grant        window.onurlchange
 // ==/UserScript==
 
