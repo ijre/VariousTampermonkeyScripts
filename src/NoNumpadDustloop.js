@@ -12,8 +12,6 @@
 
 (function()
 {
-  'use strict';
-
   const Dirs =
   {
     "1": "↙",
