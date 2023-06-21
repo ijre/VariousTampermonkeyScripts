@@ -8,5 +8,9 @@
 			"name": "Private",
 			"path": "!private"
 		}
-	]
+  ],
+  "settings":
+  {
+
+  }
 }
