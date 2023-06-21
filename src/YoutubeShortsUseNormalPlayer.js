@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Force YouTube Shorts To Use Normal Player
 // @author       ijre
-// @version      1.0.1.0
+// @version      1.0.1.1
 // @description  When loading a YouTube shorts video, redirects you to the normal url version instead
-// @match        *://*.youtube.com/*
+// @match        https://www.youtube.com/*
+// @exclude      https://www.youtube.com/embed*
 // @downloadURL  https://raw.githubusercontent.com/ijre/VariousTampermonkeyScripts/main/src/YoutubeShortsUseNormalPlayer.js
 // @updateURL    https://raw.githubusercontent.com/ijre/VariousTampermonkeyScripts/main/src/YoutubeShortsUseNormalPlayer.js
 // @grant        window.onurlchange
