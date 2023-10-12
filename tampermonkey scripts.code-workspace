@@ -1,13 +1,14 @@
 {
-	"folders": [
-		{
-			"name": "Public",
-			"path": "."
-		},
-		{
-			"name": "Private",
-			"path": "!private"
-		}
+	"folders":
+  [
+    {
+      "name": "Public",
+      "path": "."
+    },
+    {
+      "name": "Private",
+      "path": "!private"
+    }
   ],
   "settings":
   {
